@@ -1,0 +1,17 @@
+{
+  "graph": {
+    "api": [
+      "db",
+      "cache"
+    ],
+    "db": [
+      "disk"
+    ],
+    "cache": [],
+    "disk": []
+  },
+  "targets": [
+    "db",
+    "cache"
+  ]
+}
